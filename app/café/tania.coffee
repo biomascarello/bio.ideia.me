@@ -90,7 +90,7 @@ window.Tania =
           title: "Fazenda São Luiz"
     "Horta orgânica":
       icon: "leaf"
-      desc: "você pode ter a sua horta orgânica no quintal de casa, na janela da cozinha ou para quem mora em apartamento na sua própria sacada, com vasos de diferentes tamanhos e com várias espécies de hortaliças, chás, temperos e o que quiser ter é só dedicar-se e ter paciência para seguir todos os passos.''
+      desc: "Você pode ter a sua horta orgânica no quintal de casa, na janela da cozinha ou para quem mora em apartamento na sua própria sacada, com vasos de diferentes tamanhos e com várias espécies de hortaliças, chás, temperos e o que quiser ter é só dedicar-se e ter paciência para seguir todos os passos.''
 
 
     "Arborização Urbana":
@@ -101,7 +101,7 @@ window.Tania =
     "Reciclagem":
       icon: "refresh"
       desc: """
-      Reciclagem: Pensamos logo nos 3 Rs  Reduzir, Reutilizar e Reciclar mas como e aonde?; Na sua casa, na sua empresa ou no seu trabalho. Reduzindo a quantidade de lixo produzida, reutilizando folhas de papel em branco e outros materiais que são descartados sem tem necessidade e dando novas definições e utilidade a materiais que possam ser reutilizados, como potes, vidro e aquelas latinhas de leite em pó que usamos uma por semana podem se tornar lindos objetos dentro de casa e muito funcionais.
+      Reciclagem: Pensamos logo nos 3 Rs  Reduzir, Reutilizar e Reciclar mas como e aonde?; Na sua casa, na sua empresa ou no seu trabalho. Reduzindo a quantidade de lixo produzida, reutilizando folhas de papel em branco e outros materiais que são descartados sem ter necessidade e dando novas definições e utilidade a materiais que possam ser reutilizados, como potes, vidro e aquelas latinhas de leite em pó que usamos uma por semana podem se tornar lindos objetos dentro de casa e muito funcionais.
       """
 
     "Educação Ambiental":
